@@ -8,6 +8,10 @@ authors = [
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
+    "beautifulsoup4 (>=4.13.3,<5.0.0)",
+    "requests (>=2.32.3,<3.0.0)",
+    "html5lib (>=1.1,<2.0)",
+    "validators (>=0.34.0,<0.35.0)"
 ]
 
 
